@@ -15,7 +15,7 @@ A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**
 - 📊 HUD displaying Score, Level, and Lives  
 - 📱 Mobile-friendly controls (touch support)  
 - ⌨️ Keyboard controls for desktop  
-- 🔁 Game states: Menu, Playing, Dead, Game Over  
+- 🔁 Game states: Menu, Playing, Dead, Game Over.
 
 ---
 
